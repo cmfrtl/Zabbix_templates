@@ -8,4 +8,4 @@ if [[ "$value" =~ Welcome ]]; then
   echo '1'
 else
   echo '0'
-f
+fi
